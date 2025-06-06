@@ -82,9 +82,5 @@ python rag_retrieval.py
 * You may adjust chunk size, similarity threshold, or LLM prompt for best results.
 * For non-English or non-standard PDFs, you may need to tweak the author extraction regex in `rag_embedding.py`.
 
----
 
-## License
-
-MIT
 
